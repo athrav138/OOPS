@@ -1,0 +1,1 @@
+This is the file for writing the content in the file and checking of proper execution of the ofstream function
